@@ -11,7 +11,7 @@ This project hosts a simple web application that fetches unsolved Codeforces pro
 
 ### How to Use
 
-1. Open the [site](https://your-username.github.io/my-github-pages-site).
+1. Open the [site](https://anshitgupta007.github.io/Upsolver/).
 2. Enter your Codeforces handle in the input field.
 3. Click the "Submit" button.
 4. View the list of unsolved problems and the tag distribution chart.
